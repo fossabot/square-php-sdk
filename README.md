@@ -3,6 +3,7 @@
 [![Build](https://github.com/square/square-php-sdk/actions/workflows/php.yml/badge.svg)](https://github.com/square/square-php-sdk/actions/workflows/php.yml)
 [![PHP version](https://badge.fury.io/ph/square%2Fsquare.svg)](https://badge.fury.io/ph/square%2Fsquare)
 [![Apache-2 license](https://img.shields.io/badge/license-Apache2-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fsquare-php-sdk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fsquare-php-sdk?ref=badge_shield)
 
 Use this library to integrate Square payments into your app and grow your business with Square APIs including Catalog, Customers, Employees, Inventory, Labor, Locations, and Orders.
 
@@ -197,3 +198,7 @@ The following Square APIs are [deprecated](https://developer.squareup.com/docs/b
 [Employees]: doc/apis/employees.md
 [Transactions]: doc/apis/transactions.md
 [Webhook Subscriptions]: doc/api/webhook-subscriptions.md
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fsquare-php-sdk.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fsquare-php-sdk?ref=badge_large)
